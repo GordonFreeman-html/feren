@@ -1,0 +1,17 @@
+html {
+    margin:  25px auto;
+    width: 600px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+background-color: rgb(215, 250, 248);
+text-align: center;
+}
+body {
+padding: 30px;
+    background-color: rgb(201, 246, 228);
+    border-radius: 20px;
+}
+
+#cel {
+
+    text-decoration: underline;
+}
